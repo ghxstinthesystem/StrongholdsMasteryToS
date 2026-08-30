@@ -57,7 +57,7 @@ at any time. It is your responsibility to regularly review these Terms.
 ## 7. Contact Us
 
 If you have any questions about these Terms, reach out via the support server
-([SUPPORT_SERVER_INVITE]) or contact the operator on Discord (therealgrosty).
+([[SUPPORT_SERVER_INVITE](https://discord.gg/5eHFZybr6n)]) or contact the operator on Discord (therealgrosty).
 
 If you found this ToS through a search engine, here is the bot's
 [invite link](https://discord.com/api/oauth2/authorize?client_id=813353603057713152&permissions=8&scope=bot).
