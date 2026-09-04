@@ -11,7 +11,7 @@ Discord server, you agree to be bound by these Terms of Service ("Terms").
 
 The bot, its original content, features, functionality, and the tips and
 strategies it provides (collectively, "Intellectual Property") are and will
-remain the exclusive property of therealgrosty and its licensors. Our
+remain the exclusive property of ghxstinthesystem and its licensors. Our
 Intellectual Property is protected by copyright, trademark, and other laws of
 both the United Kingdom and foreign countries.
 
@@ -57,7 +57,7 @@ at any time. It is your responsibility to regularly review these Terms.
 ## 7. Contact Us
 
 If you have any questions about these Terms, reach out via the support server
-(https://discord.gg/5eHFZybr6n) or contact the operator on Discord (therealgrosty).
+(https://discord.gg/5eHFZybr6n) or contact the operator on Discord (ghxstinthesystem).
 
 If you found this ToS through a search engine, here is the bot's
 [invite link](https://discord.com/api/oauth2/authorize?client_id=813353603057713152&permissions=8&scope=bot).
