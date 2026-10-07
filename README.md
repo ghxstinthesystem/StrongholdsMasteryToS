@@ -5,7 +5,7 @@
 
 Welcome to Stronghold Mastery (also referred to as "Strongholds Mastery";
 "we," "us," "our," the "Service"), a Discord bot
-operated by ghxstinthesystem, an individual based in the United Kingdom (the
+operated by ▽ 𝕘𝕙𝕩𝕤𝕥, an individual based in the United Kingdom (the
 "Operator"). By adding the bot to a Discord server, or by using any of its
 commands or features, you agree to be bound by these Terms of Service
 ("Terms"). If you do not agree, do not add or use the bot.
@@ -62,7 +62,7 @@ Stronghold Mastery does not oblige you to buy anything.
 
 The bot, its original content, features, functionality, and the tips and
 strategies it provides (collectively, "Intellectual Property") are and will
-remain the exclusive property of ghxstinthesystem and its licensors, except for
+remain the exclusive property of the Operator and its licensors, except for
 third-party content, which belongs to its owners. Our Intellectual Property is
 protected by copyright, trademark, database and other laws of the United Kingdom
 and foreign countries.
@@ -240,7 +240,7 @@ first to try to resolve any issue informally.
 If you have any questions about these Terms, to report a security issue, or to
 make a legal or data request, email **StrongholdsSupport@shkbot.com**, join the
 support server (https://discord.gg/5eHFZybr6n), or contact the operator on
-Discord (ghxstinthesystem).
+Discord (▽ 𝕘𝕙𝕩𝕤𝕥).
 
 If you found this ToS through a search engine, here is the bot's
 [invite link](https://discord.com/api/oauth2/authorize?client_id=813353603057713152&permissions=8&scope=bot).
