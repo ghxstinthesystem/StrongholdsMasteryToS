@@ -123,7 +123,7 @@ promptly and act where appropriate.
 ## 6. Your Data
 
 Use of the bot is also subject to our
-[Privacy Policy](https://github.com/X9X-Grosty/StrongholdsMasteryPirvacyPolicy/blob/main/README.md),
+[Privacy Policy](https://github.com/ghxstinthesystem/StrongholdsMasteryPirvacyPolicy/blob/main/README.md),
 which describes what data the bot stores, why, and how to request its deletion.
 The Privacy Policy forms part of these Terms.
 
