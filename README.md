@@ -1,9 +1,10 @@
-# Terms of Service for Strongholds Mastery
+# Terms of Service for Stronghold Mastery
 
 **Effective Date:** 3 November 2023
 **Last Updated:** 7 October 2026
 
-Welcome to Strongholds Mastery ("we," "us," "our," the "Service"), a Discord bot
+Welcome to Stronghold Mastery (also referred to as "Strongholds Mastery";
+"we," "us," "our," the "Service"), a Discord bot
 operated by ghxstinthesystem, an individual based in the United Kingdom (the
 "Operator"). By adding the bot to a Discord server, or by using any of its
 commands or features, you agree to be bound by these Terms of Service
@@ -28,7 +29,7 @@ commands or features, you agree to be bound by these Terms of Service
 
 ## 2. The Service
 
-Strongholds Mastery provides tips, strategies and community and server-management
+Stronghold Mastery provides tips, strategies and community and server-management
 features for Stronghold Kingdoms players inside Discord, such as war-party
 organisation, player notes, vacation tracking, welcome messages, self-roles and
 moderation tools. The Service is provided free of charge. We may add, change,
@@ -55,7 +56,7 @@ policy apply, and we do not receive or store your payment card details.
 The bot may tell you about other bots or services operated by us, including a
 paid bot. Any purchase or subscription is a separate agreement and is governed
 by the terms presented at the point of sale, not by these Terms. Using
-Strongholds Mastery does not oblige you to buy anything.
+Stronghold Mastery does not oblige you to buy anything.
 
 ## 3. Intellectual Property Rights
 
@@ -96,7 +97,7 @@ You must not:
 
 Any individual or entity suspected of breaching these rules or attempting to
 breach our security measures may be permanently blacklisted from receiving
-services from Strongholds Mastery, regardless of the server on which the bot is
+services from Stronghold Mastery, regardless of the server on which the bot is
 present. We may also report unlawful activity to Discord and the relevant
 authorities. If you find a security vulnerability, please report it privately
 via the contact details below rather than exploiting it.
