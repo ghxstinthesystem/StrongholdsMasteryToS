@@ -240,7 +240,7 @@ first to try to resolve any issue informally.
 If you have any questions about these Terms, to report a security issue, or to
 make a legal or data request, email **StrongholdsSupport@shkbot.com**, join the
 support server (https://discord.gg/5eHFZybr6n), or contact the operator on
-Discord (▽ 𝕘𝕙𝕩𝕤𝕥).
+Discord (▽ 𝕘𝕙𝕩𝕤𝕥, username: ghxstinthesystem).
 
 If you found this ToS through a search engine, here is the bot's
 [invite link](https://discord.com/api/oauth2/authorize?client_id=813353603057713152&permissions=8&scope=bot).
