@@ -33,10 +33,27 @@ inside Discord. The Service is provided free of charge. We may add, change,
 suspend or remove any feature, command or content at any time, with or without
 notice.
 
-We are an independent project. We are not affiliated with, endorsed by or
-sponsored by Discord Inc. or by the developer or publisher of any game the bot
-refers to. All third-party names, trademarks and game content belong to their
+We are an independent, fan-made project. We are not affiliated with, endorsed by
+or sponsored by Discord Inc. or by Firefly Studios, the developer and publisher
+of Stronghold Kingdoms, the game the bot relates to. "Stronghold Kingdoms" and
+all other third-party names, trademarks and game content belong to their
 respective owners and are used for identification only.
+
+### Donations
+
+The Service is free to use. We may provide a link through which you can choose
+to make a voluntary donation. Donations are gifts: they do not buy you any
+feature, service, priority, licence or other right, and they are not refundable
+except where the law requires otherwise. Donations are handled by the
+third-party payment provider behind the link, whose own terms and privacy
+policy apply, and we do not receive or store your payment card details.
+
+### Other Products We Operate
+
+The bot may tell you about other bots or services operated by us, including a
+paid bot. Any purchase or subscription is a separate agreement and is governed
+by the terms presented at the point of sale, not by these Terms. Using
+Strongholds Mastery does not oblige you to buy anything.
 
 ## 3. Intellectual Property Rights
 
@@ -193,9 +210,9 @@ first to try to resolve any issue informally.
 ## 15. Contact Us
 
 If you have any questions about these Terms, to report a security issue, or to
-make a legal or data request, reach out via the support server
-(https://discord.gg/5eHFZybr6n) or contact the operator on Discord
-(ghxstinthesystem).
+make a legal or data request, email **StrongholdsSupport@shkbot.com**, join the
+support server (https://discord.gg/5eHFZybr6n), or contact the operator on
+Discord (ghxstinthesystem).
 
 If you found this ToS through a search engine, here is the bot's
 [invite link](https://discord.com/api/oauth2/authorize?client_id=813353603057713152&permissions=8&scope=bot).
