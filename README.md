@@ -1,7 +1,7 @@
 # Terms of Service for Strongholds Mastery
 
-**Effective Date:** 3/11/2023
-**Last Updated:** 7/10/2026
+**Effective Date:** 3 November 2023
+**Last Updated:** 7 October 2026
 
 Welcome to Strongholds Mastery ("we," "us," "our," the "Service"), a Discord bot
 operated by ghxstinthesystem, an individual based in the United Kingdom (the
@@ -28,8 +28,10 @@ commands or features, you agree to be bound by these Terms of Service
 
 ## 2. The Service
 
-Strongholds Mastery provides tips, strategies and related community features
-inside Discord. The Service is provided free of charge. We may add, change,
+Strongholds Mastery provides tips, strategies and community and server-management
+features for Stronghold Kingdoms players inside Discord, such as war-party
+organisation, player notes, vacation tracking, welcome messages, self-roles and
+moderation tools. The Service is provided free of charge. We may add, change,
 suspend or remove any feature, command or content at any time, with or without
 notice.
 
@@ -65,7 +67,7 @@ protected by copyright, trademark, database and other laws of the United Kingdom
 and foreign countries.
 
 We grant you a limited, revocable, non-exclusive, non-transferable licence to
-use the Service for your own personal, non-commercial use in accordance with
+use the Service for your own personal and community, non-commercial use in accordance with
 these Terms. No other rights are granted.
 
 You agree not to:
@@ -99,14 +101,33 @@ present. We may also report unlawful activity to Discord and the relevant
 authorities. If you find a security vulnerability, please report it privately
 via the contact details below rather than exploiting it.
 
-## 5. Your Data
+## 5. Content You Submit
+
+Some features let you enter content, such as player notes, in-game player names,
+vacation entries, war-party details and server settings ("User Content"). You
+are responsible for your User Content and confirm that you have the right to
+submit it and that it is accurate, lawful and not defamatory, abusive,
+discriminatory or an invasion of anyone's privacy. Do not submit sensitive
+personal information (for example health, real names, addresses or contact
+details) about yourself or anyone else.
+
+You keep ownership of your User Content. You give us a non-exclusive,
+royalty-free licence to store, process and display it as needed to run the
+Service in the servers where it was submitted. We do not review User Content
+before it is posted, but we may remove or refuse any User Content, and
+restrict access to the feature, if we reasonably believe it breaches these
+Terms or the law. To report User Content you believe is unlawful or harmful,
+or that is about you, use the contact details below; we will review reports
+promptly and act where appropriate.
+
+## 6. Your Data
 
 Use of the bot is also subject to our
 [Privacy Policy](https://github.com/X9X-Grosty/StrongholdsMasteryPirvacyPolicy/blob/main/README.md),
 which describes what data the bot stores, why, and how to request its deletion.
 The Privacy Policy forms part of these Terms.
 
-## 6. Permissions
+## 7. Permissions and Server Features
 
 The bot may request Discord permissions when it is added to a server. You are
 responsible for deciding which permissions to grant and for reviewing them
@@ -114,23 +135,29 @@ before you authorise the bot. We recommend granting only the permissions needed
 for the features you use. We are not responsible for loss or damage resulting
 from permissions you choose to grant.
 
-## 7. Availability and No Guarantee of Accuracy
+Server Administrators decide how the bot is configured and used in their
+server, including any moderation action (such as bans, role changes or logs)
+taken through the bot, and are responsible for those decisions and for telling
+their members that the bot is in use where appropriate.
+
+## 8. Availability and No Guarantee of Accuracy
 
 The Service is provided on an "as is" and "as available" basis. We do not
-guarantee that it will be uninterrupted, error-free, secure or always
-available, or that any tip, strategy or information is accurate, complete,
+guarantee that it will be uninterrupted, error-free or always available
+(although we take reasonable steps to keep it and your data secure, as
+described in the Privacy Policy), or that any tip, strategy or information is accurate, complete,
 current or will produce any particular result in a game. Game mechanics change
 and you use tips and strategies at your own risk. Nothing the bot provides is
 professional advice of any kind.
 
-## 8. Disclaimer of Warranties
+## 9. Disclaimer of Warranties
 
 To the fullest extent permitted by law, we exclude all warranties, conditions
 and terms, whether express or implied (including satisfactory quality, fitness
 for a particular purpose and non-infringement), except those that cannot be
 excluded by law.
 
-## 9. Limitation of Liability
+## 10. Limitation of Liability
 
 Nothing in these Terms excludes or limits liability that cannot lawfully be
 excluded or limited, including liability for death or personal injury caused by
@@ -152,7 +179,7 @@ We are not responsible for the acts, content or conduct of other users, server
 administrators, Discord, or any other third party, or for outages of Discord or
 our hosting providers.
 
-## 10. Indemnity
+## 11. Indemnity
 
 If you are using the Service in a business or organisational capacity, or as a
 Server Administrator, you agree to indemnify us against claims, losses and
@@ -160,7 +187,7 @@ reasonable costs arising from your breach of these Terms or your unlawful use of
 the Service. This clause does not apply to you to the extent that you are a
 consumer and it would be unfair or unlawful to apply it.
 
-## 11. Termination
+## 12. Termination
 
 We may terminate or suspend your or a server's access to the bot at any time,
 without prior notice or liability, where we reasonably consider it necessary,
@@ -170,10 +197,10 @@ stop using the bot at any time by removing it from your server and may request
 deletion of your data as described in the Privacy Policy.
 
 On termination your licence to use the Service ends. Sections that by their
-nature should survive (including 3, 4, 7 to 10, 13 and 14) will survive
+nature should survive (including 3, 4, 5, 8 to 11, 14 and 15) will survive
 termination.
 
-## 12. Changes
+## 13. Changes
 
 We may modify or replace these Terms at any time. Where changes are material we
 will take reasonable steps to notify users, for example by posting in the
@@ -182,7 +209,7 @@ of the bot after changes take effect means you accept the revised Terms. If you
 do not agree, you must stop using the bot. It is your responsibility to review
 these Terms from time to time.
 
-## 13. Governing Law and Disputes
+## 14. Governing Law and Disputes
 
 These Terms and any dispute or claim arising from them (including
 non-contractual disputes) are governed by the laws of England and Wales. The
@@ -192,7 +219,7 @@ United Kingdom where you live, and you keep any mandatory consumer rights you
 have under the law of your country of residence. We encourage you to contact us
 first to try to resolve any issue informally.
 
-## 14. General
+## 15. General
 
 - **Entire agreement:** these Terms (with the Privacy Policy) are the entire
   agreement between you and us about the Service.
@@ -207,7 +234,7 @@ first to try to resolve any issue informally.
 - **Force majeure:** we are not liable for delay or failure caused by events
   beyond our reasonable control.
 
-## 15. Contact Us
+## 16. Contact Us
 
 If you have any questions about these Terms, to report a security issue, or to
 make a legal or data request, email **StrongholdsSupport@shkbot.com**, join the
