@@ -53,6 +53,14 @@ except where the law requires otherwise. Donations are handled by the
 third-party payment provider behind the link, whose own terms and privacy
 policy apply, and we do not receive or store your payment card details.
 
+### Premium Features Through Discord
+
+The app is registered with Discord's in-app store so that we can offer optional
+premium features in future. **Today there are none**: every feature of the Service
+is free, and nothing is sold through Discord. If we ever add a premium feature,
+this page will describe it, its price and what it unlocks at least 14 days
+before it goes on sale, and the free features will stay free.
+
 ### Other Products We Operate
 
 The bot may tell you about other bots or services operated by us, including a
