@@ -1,12 +1,13 @@
-# Terms of Service for Stronghold Mastery
+# Terms of Service for Strongholds Mastery
 
 **Effective Date:** 3 November 2023
-**Last Updated:** 7 October 2026
 
-Welcome to Stronghold Mastery (also referred to as "Strongholds Mastery";
-"we," "us," "our," the "Service"), a Discord bot
-operated by ▽ 𝕘𝕙𝕩𝕤𝕥, an individual based in the United Kingdom (the
-"Operator"). By adding the bot to a Discord server, or by using any of its
+**Last Updated:** 8 October 2026
+
+Welcome to Strongholds Mastery (in some servers shown as "Stronghold
+Mastery"; "we", "us", "our", the "Service"), a Discord bot operated by
+▽ 𝕘𝕙𝕩𝕤𝕥 (Discord username: ghxstinthesystem), an individual based in the
+United Kingdom (the "Operator"). By adding the bot to a Discord server, or by using any of its
 commands or features, you agree to be bound by these Terms of Service
 ("Terms"). If you do not agree, do not add or use the bot.
 
@@ -29,10 +30,11 @@ commands or features, you agree to be bound by these Terms of Service
 
 ## 2. The Service
 
-Stronghold Mastery provides tips, strategies and community and server-management
-features for Stronghold Kingdoms players inside Discord, such as war-party
-organisation, player notes, vacation tracking, welcome messages, self-roles and
-moderation tools. The Service is provided free of charge. We may add, change,
+Strongholds Mastery gives Stronghold Kingdoms players tips, strategies, and
+community and server-management features inside Discord. These include player
+lookups and ban checks, Hall of Heroes searches, activity lookups, war-party
+organisation, player notes, vacation tracking, alliance boards, translation
+mirroring, welcome messages, self-roles and moderation tools. The Service is provided free of charge. We may add, change,
 suspend or remove any feature, command or content at any time, with or without
 notice.
 
@@ -56,7 +58,7 @@ policy apply, and we do not receive or store your payment card details.
 The bot may tell you about other bots or services operated by us, including a
 paid bot. Any purchase or subscription is a separate agreement and is governed
 by the terms presented at the point of sale, not by these Terms. Using
-Stronghold Mastery does not oblige you to buy anything.
+Strongholds Mastery does not oblige you to buy anything.
 
 ## 3. Intellectual Property Rights
 
@@ -68,8 +70,8 @@ protected by copyright, trademark, database and other laws of the United Kingdom
 and foreign countries.
 
 We grant you a limited, revocable, non-exclusive, non-transferable licence to
-use the Service for your own personal and community, non-commercial use in accordance with
-these Terms. No other rights are granted.
+use the Service for personal and non-commercial community purposes in line
+with these Terms. No other rights are granted.
 
 You agree not to:
 
@@ -86,9 +88,9 @@ You agree not to:
 
 You must not:
 
-- Attempt to access, probe, or crack passwords for any secured features of the
-  bot, including but not limited to "UpdateWinners," or otherwise attempt to
-  gain unauthorised access to the bot, its hosting, or its data.
+- Attempt to access, probe or crack passwords for any restricted or
+  owner-only feature of the bot, or otherwise attempt to gain unauthorised
+  access to the bot, its hosting or its data.
 - Interfere with or disrupt the Service, including by spamming commands,
   overloading it, or exploiting bugs rather than reporting them.
 - Use the bot to break any law, to harass, abuse or threaten others, to infringe
@@ -97,15 +99,17 @@ You must not:
 
 Any individual or entity suspected of breaching these rules or attempting to
 breach our security measures may be permanently blacklisted from receiving
-services from Stronghold Mastery, regardless of the server on which the bot is
+services from Strongholds Mastery, regardless of the server on which the bot is
 present. We may also report unlawful activity to Discord and the relevant
 authorities. If you find a security vulnerability, please report it privately
 via the contact details below rather than exploiting it.
 
 ## 5. Content You Submit
 
-Some features let you enter content, such as player notes, in-game player names,
-vacation entries, war-party details and server settings ("User Content"). You
+Some features let you enter content, such as player notes, in-game player
+names, list entries, vacation entries, announcements, war-party details and
+server settings ("User Content"). User Content can be seen by other members of
+the server where you entered it. You
 are responsible for your User Content and confirm that you have the right to
 submit it and that it is accurate, lawful and not defamatory, abusive,
 discriminatory or an invasion of anyone's privacy. Do not submit sensitive
@@ -125,15 +129,15 @@ promptly and act where appropriate.
 
 Use of the bot is also subject to our
 [Privacy Policy](https://github.com/ghxstinthesystem/StrongholdsMasteryPirvacyPolicy/blob/main/README.md),
-which describes what data the bot stores, why, and how to request its deletion.
-The Privacy Policy forms part of these Terms.
+which explains what data the bot stores, why, who it is shared with, and how
+to request its deletion.
 
 ## 7. Permissions and Server Features
 
-The bot may request Discord permissions when it is added to a server. You are
-responsible for deciding which permissions to grant and for reviewing them
-before you authorise the bot. We recommend granting only the permissions needed
-for the features you use. We are not responsible for loss or damage resulting
+The bot requests Discord permissions when it is added to a server. Review
+them before you authorise the bot and decide which ones to grant. We recommend
+granting only the permissions needed for the features you use. Some features
+will not work without the permissions they need. We are not responsible for loss or damage resulting
 from permissions you choose to grant.
 
 Server Administrators decide how the bot is configured and used in their
@@ -146,8 +150,9 @@ their members that the bot is in use where appropriate.
 The Service is provided on an "as is" and "as available" basis. We do not
 guarantee that it will be uninterrupted, error-free or always available
 (although we take reasonable steps to keep it and your data secure, as
-described in the Privacy Policy), or that any tip, strategy or information is accurate, complete,
-current or will produce any particular result in a game. Game mechanics change
+described in the Privacy Policy). We also do not guarantee that any tip,
+strategy, lookup, ban status or other information is accurate, complete or
+current, or that it will produce any particular result in a game. Game mechanics change
 and you use tips and strategies at your own risk. Nothing the bot provides is
 professional advice of any kind.
 
@@ -222,8 +227,8 @@ first to try to resolve any issue informally.
 
 ## 15. General
 
-- **Entire agreement:** these Terms (with the Privacy Policy) are the entire
-  agreement between you and us about the Service.
+- **Entire agreement:** these Terms are the entire agreement between you and
+  us about the Service. The Privacy Policy explains how we handle personal data.
 - **Severability:** if any provision is found to be unenforceable, the rest
   remains in effect.
 - **No waiver:** failing to enforce a right is not a waiver of it.
@@ -242,5 +247,5 @@ make a legal or data request, email **StrongholdsSupport@shkbot.com**, join the
 support server (https://discord.gg/5eHFZybr6n), or contact the operator on
 Discord (▽ 𝕘𝕙𝕩𝕤𝕥, username: ghxstinthesystem).
 
-If you found this ToS through a search engine, here is the bot's
+If you found these Terms through a search engine, here is the bot's
 [invite link](https://discord.com/api/oauth2/authorize?client_id=813353603057713152&permissions=8&scope=bot).
